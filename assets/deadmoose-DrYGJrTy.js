@@ -1,0 +1,1 @@
+var e=`/assets/deadmoose-C6mG6bFS.jpg`;export{e as default};

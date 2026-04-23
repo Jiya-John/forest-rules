@@ -1,0 +1,1 @@
+var e=`/assets/background-Ce3DeQzO.jpg`;export{e as default};

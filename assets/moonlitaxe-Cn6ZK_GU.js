@@ -1,0 +1,1 @@
+var e=`/assets/moonlitaxe-BC5j4Sih.jpg`;export{e as default};

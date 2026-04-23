@@ -1,0 +1,1 @@
+var e=`/assets/gravestone-BwrRakdj.mp3`;export{e as default};

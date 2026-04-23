@@ -1,0 +1,1 @@
+var e=`/assets/gravestone-D0rIwziG.jpg`;export{e as default};

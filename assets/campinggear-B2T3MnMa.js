@@ -1,0 +1,1 @@
+var e=`/assets/campinggear-Debv6fz3.mp3`;export{e as default};

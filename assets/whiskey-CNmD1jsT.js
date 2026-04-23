@@ -1,0 +1,1 @@
+var e=`/assets/whiskey-Sx2iQaIR.mp3`;export{e as default};
