@@ -1,0 +1,1 @@
+var e=`/forest-rules/assets/chTresDone-DiVTPN2-.mp3`;export{e as default};

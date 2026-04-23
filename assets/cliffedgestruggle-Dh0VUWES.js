@@ -1,1 +1,0 @@
-var e=`/assets/cliffedgestruggle-ByqZgzhv.jpg`;export{e as default};

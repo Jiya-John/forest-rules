@@ -1,0 +1,1 @@
+var e=`/forest-rules/assets/deadmoose-C6mG6bFS.jpg`;export{e as default};

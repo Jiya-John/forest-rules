@@ -1,0 +1,1 @@
+var e=`/forest-rules/assets/deadmoose-Uu5KnItw.mp3`;export{e as default};

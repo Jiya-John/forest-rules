@@ -1,0 +1,1 @@
+var e=`/forest-rules/assets/axe-CKrMLUTz.jpg`;export{e as default};

@@ -1,0 +1,1 @@
+var e=`/forest-rules/assets/campinggear-BQCmaQp2.jpg`;export{e as default};

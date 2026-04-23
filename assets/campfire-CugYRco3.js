@@ -1,1 +1,0 @@
-var e=`/assets/campfire-CHjX57Zk.jpg`;export{e as default};

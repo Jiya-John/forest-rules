@@ -1,0 +1,1 @@
+var e=`/forest-rules/assets/lonecliffman-D0rR6u_u.jpg`;export{e as default};

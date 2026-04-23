@@ -1,1 +1,0 @@
-var e=`/assets/handheldradio-DGM5FBS3.jpg`;export{e as default};

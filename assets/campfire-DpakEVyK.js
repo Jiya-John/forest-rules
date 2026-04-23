@@ -1,0 +1,1 @@
+var e=`/forest-rules/assets/campfire-Im8i4dbb.mp3`;export{e as default};

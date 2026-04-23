@@ -1,1 +1,0 @@
-var e=`/assets/axe-CKrMLUTz.jpg`;export{e as default};

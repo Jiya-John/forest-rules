@@ -1,0 +1,1 @@
+var e=`/forest-rules/assets/axe-BLqSEblo.mp3`;export{e as default};

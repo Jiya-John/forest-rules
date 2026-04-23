@@ -1,0 +1,1 @@
+var e=`/forest-rules/assets/letterhead-DaB7kpW7.jpg`;export{e as default};

@@ -1,0 +1,1 @@
+var e=`/forest-rules/assets/moonlitaxe-BC5j4Sih.jpg`;export{e as default};

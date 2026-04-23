@@ -1,0 +1,1 @@
+var e=`/forest-rules/assets/background-Ce3DeQzO.jpg`;export{e as default};

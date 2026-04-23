@@ -1,0 +1,1 @@
+var e=`/forest-rules/assets/helicopterview-iz4eqAMi.jpg`;export{e as default};
